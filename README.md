@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com/madlabsinc/teachcode/pull/131) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🎉 Merged PR [#132](https://github.com/madlabsinc/teachcode/pull/132) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#133](https://github.com/madlabsinc/teachcode/pull/133) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#134](https://github.com/madlabsinc/teachcode/pull/134) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#35](https://github.com/jamesgeorge007/csstox/pull/35) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+1. 🎉 Merged PR [#5](https://github.com/ToulouZen/ToulouZen/pull/5) in [ToulouZen/ToulouZen](https://github.com/ToulouZen/ToulouZen)
+2. 🗣 Commented on [#1875](https://github.com/software-mansion/react-native-reanimated/issues/1875) in [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+3. 🗣 Commented on [#131](https://github.com/Shopify/react-native-skia/issues/131) in [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)
+4. 🗣 Commented on [#131](https://github.com/Shopify/react-native-skia/issues/131) in [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)
+5. 🗣 Commented on [#147](https://github.com/Shopify/react-native-skia/issues/147) in [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/tinesoft/ngx-scrollreveal/issues/81) in [tinesoft/ngx-scrollreveal](https://github.com/tinesoft/ngx-scrollreveal)
-2. 💪 Opened PR [#28](https://github.com/talknagish/react-native-turbo-starter/pull/28) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
-3. ❗️ Closed issue [#33596](https://github.com/facebook/react-native/issues/33596) in [facebook/react-native](https://github.com/facebook/react-native)
-4. ❗️ Opened issue [#33596](https://github.com/facebook/react-native/issues/33596) in [facebook/react-native](https://github.com/facebook/react-native)
-5. 💪 Opened PR [#2260](https://github.com/nestjs/docs.nestjs.com/pull/2260) in [nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com)
+1. 💪 Opened PR [#976](https://github.com/callstack/react-native-testing-library/pull/976) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+2. 🗣 Commented on [#81](https://github.com/tinesoft/ngx-scrollreveal/issues/81) in [tinesoft/ngx-scrollreveal](https://github.com/tinesoft/ngx-scrollreveal)
+3. 💪 Opened PR [#28](https://github.com/talknagish/react-native-turbo-starter/pull/28) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
+4. ❗️ Closed issue [#33596](https://github.com/facebook/react-native/issues/33596) in [facebook/react-native](https://github.com/facebook/react-native)
+5. ❗️ Opened issue [#33596](https://github.com/facebook/react-native/issues/33596) in [facebook/react-native](https://github.com/facebook/react-native)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/talknagish/react-native-turbo-starter/pull/34) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
-2. 🗣 Commented on [#33665](https://github.com/facebook/react-native/issues/33665) in [facebook/react-native](https://github.com/facebook/react-native)
-3. 💪 Opened PR [#976](https://github.com/callstack/react-native-testing-library/pull/976) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-4. 🗣 Commented on [#81](https://github.com/tinesoft/ngx-scrollreveal/issues/81) in [tinesoft/ngx-scrollreveal](https://github.com/tinesoft/ngx-scrollreveal)
-5. 💪 Opened PR [#28](https://github.com/talknagish/react-native-turbo-starter/pull/28) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
+1. ❗️ Opened issue [#484](https://github.com/Shopify/flash-list/issues/484) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
+2. 💪 Opened PR [#34](https://github.com/talknagish/react-native-turbo-starter/pull/34) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
+3. 🗣 Commented on [#33665](https://github.com/facebook/react-native/issues/33665) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 💪 Opened PR [#976](https://github.com/callstack/react-native-testing-library/pull/976) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+5. 🗣 Commented on [#81](https://github.com/tinesoft/ngx-scrollreveal/issues/81) in [tinesoft/ngx-scrollreveal](https://github.com/tinesoft/ngx-scrollreveal)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

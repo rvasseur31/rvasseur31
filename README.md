@@ -34,10 +34,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33665](https://github.com/facebook/react-native/issues/33665) in [facebook/react-native](https://github.com/facebook/react-native)
-2. ❗️ Opened issue [#484](https://github.com/Shopify/flash-list/issues/484) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
-3. 💪 Opened PR [#34](https://github.com/talknagish/react-native-turbo-starter/pull/34) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
-4. 🗣 Commented on [#33665](https://github.com/facebook/react-native/issues/33665) in [facebook/react-native](https://github.com/facebook/react-native)
+1. 🗣 Commented on [#1449](https://github.com/oblador/react-native-vector-icons/issues/1449) in [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+2. 🗣 Commented on [#33665](https://github.com/facebook/react-native/issues/33665) in [facebook/react-native](https://github.com/facebook/react-native)
+3. ❗️ Opened issue [#484](https://github.com/Shopify/flash-list/issues/484) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
+4. 💪 Opened PR [#34](https://github.com/talknagish/react-native-turbo-starter/pull/34) in [talknagish/react-native-turbo-starter](https://github.com/talknagish/react-native-turbo-starter)
 5. 💪 Opened PR [#976](https://github.com/callstack/react-native-testing-library/pull/976) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
 <!--END_SECTION:activity-->
 

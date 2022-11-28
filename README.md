@@ -34,10 +34,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MSMLBV/react-native-notification-badge/pull/1) in [MSMLBV/react-native-notification-badge](https://github.com/MSMLBV/react-native-notification-badge)
-2. 🗣 Commented on [#1449](https://github.com/oblador/react-native-vector-icons/issues/1449) in [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-3. 🗣 Commented on [#33665](https://github.com/facebook/react-native/issues/33665) in [facebook/react-native](https://github.com/facebook/react-native)
-4. ❗️ Opened issue [#484](https://github.com/Shopify/flash-list/issues/484) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
+1. 🗣 Commented on [#285](https://github.com/expo/react-native-action-sheet/issues/285) in [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet)
+2. ❗️ Opened issue [#285](https://github.com/expo/react-native-action-sheet/issues/285) in [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet)
+3. 💪 Opened PR [#1](https://github.com/MSMLBV/react-native-notification-badge/pull/1) in [MSMLBV/react-native-notification-badge](https://github.com/MSMLBV/react-native-notification-badge)
+4. 🗣 Commented on [#1449](https://github.com/oblador/react-native-vector-icons/issues/1449) in [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 5. 💪 Opened PR [#976](https://github.com/callstack/react-native-testing-library/pull/976) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
 <!--END_SECTION:activity-->
 

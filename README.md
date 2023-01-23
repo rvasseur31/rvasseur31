@@ -35,10 +35,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. 💪 Opened PR [#530](https://github.com/tamagui/tamagui/pull/530) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-3. ❗️ Opened issue [#529](https://github.com/tamagui/tamagui/issues/529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-4. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-5. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+2. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+3. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+4. 💪 Opened PR [#530](https://github.com/tamagui/tamagui/pull/530) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+5. ❗️ Opened issue [#529](https://github.com/tamagui/tamagui/issues/529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

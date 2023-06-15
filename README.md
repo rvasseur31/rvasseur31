@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-3. 🗣 Commented on [#524](https://github.com/tamagui/tamagui/issues/524) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-4. 💪 Opened PR [#530](https://github.com/tamagui/tamagui/pull/530) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-5. ❗️ Opened issue [#529](https://github.com/tamagui/tamagui/issues/529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+1. 🗣 Commented on [#37884](https://github.com/facebook/react-native/issues/37884) in [facebook/react-native](https://github.com/facebook/react-native)
+2. 💪 Opened PR [#1](https://github.com/andresribeiro/with-expo-fonts/pull/1) in [andresribeiro/with-expo-fonts](https://github.com/andresribeiro/with-expo-fonts)
+3. 🗣 Commented on [#37627](https://github.com/facebook/react-native/issues/37627) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 🗣 Commented on [#559](https://github.com/invertase/notifee/issues/559) in [invertase/notifee](https://github.com/invertase/notifee)
+5. 🗣 Commented on [#191](https://github.com/cooperka/react-native-snackbar/issues/191) in [cooperka/react-native-snackbar](https://github.com/cooperka/react-native-snackbar)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

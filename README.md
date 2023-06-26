@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37884](https://github.com/facebook/react-native/issues/37884) in [facebook/react-native](https://github.com/facebook/react-native)
-2. 💪 Opened PR [#1](https://github.com/andresribeiro/with-expo-fonts/pull/1) in [andresribeiro/with-expo-fonts](https://github.com/andresribeiro/with-expo-fonts)
-3. 🗣 Commented on [#37627](https://github.com/facebook/react-native/issues/37627) in [facebook/react-native](https://github.com/facebook/react-native)
-4. 🗣 Commented on [#559](https://github.com/invertase/notifee/issues/559) in [invertase/notifee](https://github.com/invertase/notifee)
-5. 🗣 Commented on [#191](https://github.com/cooperka/react-native-snackbar/issues/191) in [cooperka/react-native-snackbar](https://github.com/cooperka/react-native-snackbar)
+1. ❗ Opened issue [#38047](https://github.com/facebook/react-native/issues/38047) in [facebook/react-native](https://github.com/facebook/react-native)
+2. 🗣 Commented on [#22932](https://github.com/expo/expo/issues/22932) in [expo/expo](https://github.com/expo/expo)
+3. 🗣 Commented on [#37989](https://github.com/facebook/react-native/issues/37989) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 🗣 Commented on [#37943](https://github.com/facebook/react-native/issues/37943) in [facebook/react-native](https://github.com/facebook/react-native)
+5. 🗣 Commented on [#37884](https://github.com/facebook/react-native/issues/37884) in [facebook/react-native](https://github.com/facebook/react-native)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

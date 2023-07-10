@@ -35,10 +35,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
-2. ❗ Opened issue [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
-3. 🗣 Commented on [#37884](https://github.com/facebook/react-native/issues/37884) in [facebook/react-native](https://github.com/facebook/react-native)
-4. 🗣 Commented on [#37884](https://github.com/facebook/react-native/issues/37884) in [facebook/react-native](https://github.com/facebook/react-native)
-5. 🗣 Commented on [#38047](https://github.com/facebook/react-native/issues/38047) in [facebook/react-native](https://github.com/facebook/react-native)
+2. 🔒 Closed issue [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
+3. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
+4. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
+5. ❗ Opened issue [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

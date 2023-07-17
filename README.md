@@ -34,10 +34,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193#issuecomment-1618506490) in [expo/expo](https://github.com/expo/expo)
 2. 🔒 Closed issue [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
-3. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
-4. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
+3. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193#issuecomment-1617512423) in [expo/expo](https://github.com/expo/expo)
+4. 🗣 Commented on [#23193](https://github.com/expo/expo/issues/23193#issuecomment-1616520046) in [expo/expo](https://github.com/expo/expo)
 5. ❗ Opened issue [#23193](https://github.com/expo/expo/issues/23193) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 

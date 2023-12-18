@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/vonovak/react-native-add-calendar-event/pull/182#issuecomment-1845580449) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
-2. 🗣 Commented on [#2415](https://github.com/microsoft/react-native-code-push/pull/2415#issuecomment-1787521741) in [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push)
-3. 🗣 Commented on [#23392](https://github.com/expo/expo/issues/23392#issuecomment-1773346204) in [expo/expo](https://github.com/expo/expo)
-4. ❗ Opened issue [#1101](https://github.com/dotintent/react-native-ble-plx/issues/1101) in [dotintent/react-native-ble-plx](https://github.com/dotintent/react-native-ble-plx)
-5. 🗣 Commented on [#154](https://github.com/hoaphantn7604/react-native-element-dropdown/pull/154#issuecomment-1687859056) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)
+1. ❗ Opened issue [#800](https://github.com/callstack/react-native-pager-view/issues/800) in [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view)
+2. 🗣 Commented on [#181](https://github.com/vonovak/react-native-add-calendar-event/pull/181#issuecomment-1850246726) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
+3. 🗣 Commented on [#182](https://github.com/vonovak/react-native-add-calendar-event/pull/182#issuecomment-1845580449) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
+4. 🗣 Commented on [#2415](https://github.com/microsoft/react-native-code-push/pull/2415#issuecomment-1787521741) in [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push)
+5. 🗣 Commented on [#23392](https://github.com/expo/expo/issues/23392#issuecomment-1773346204) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

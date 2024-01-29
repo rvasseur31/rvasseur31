@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/vonovak/react-native-add-calendar-event/pull/182#issuecomment-1861118560) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
-2. ❗ Opened issue [#800](https://github.com/callstack/react-native-pager-view/issues/800) in [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view)
-3. 🗣 Commented on [#181](https://github.com/vonovak/react-native-add-calendar-event/pull/181#issuecomment-1850246726) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
-4. 🗣 Commented on [#182](https://github.com/vonovak/react-native-add-calendar-event/pull/182#issuecomment-1845580449) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
-5. 🗣 Commented on [#2415](https://github.com/microsoft/react-native-code-push/pull/2415#issuecomment-1787521741) in [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push)
+1. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909809666) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+2. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909553917) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+3. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1908559780) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+4. 💪 Opened PR [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+5. 🗣 Commented on [#182](https://github.com/vonovak/react-native-add-calendar-event/pull/182#issuecomment-1861118560) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

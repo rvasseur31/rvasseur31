@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909809666) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-2. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909553917) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-3. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1908559780) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-4. 💪 Opened PR [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-5. 🗣 Commented on [#182](https://github.com/vonovak/react-native-add-calendar-event/pull/182#issuecomment-1861118560) in [vonovak/react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event)
+1. 🗣 Commented on [#37198](https://github.com/facebook/react-native/issues/37198#issuecomment-1918858091) in [facebook/react-native](https://github.com/facebook/react-native)
+2. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909809666) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+3. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909553917) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+4. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1908559780) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+5. 💪 Opened PR [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

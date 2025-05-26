@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [LoungeUp](https://www.loungeup.com)
+- 🔭 I’m currently working at [D-EDGE CRM](https://www.loungeup.com)
 - 🌱 I’m currently learning React Native New Architecture
 - 👯 I’m looking to collaborate on React Native project
 - 📫 How to reach me:

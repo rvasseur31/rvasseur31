@@ -34,11 +34,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37198](https://github.com/facebook/react-native/issues/37198#issuecomment-1918858091) in [facebook/react-native](https://github.com/facebook/react-native)
-2. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909809666) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-3. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1909553917) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-4. 🗣 Commented on [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593#issuecomment-1908559780) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
-5. 💪 Opened PR [#593](https://github.com/DataDog/dd-sdk-reactnative/pull/593) in [DataDog/dd-sdk-reactnative](https://github.com/DataDog/dd-sdk-reactnative)
+1. 🗣 Commented on [#2967](https://github.com/chakra-ui/zag/issues/2967#issuecomment-3932250390) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
+2. 🎉 Merged PR [#20](https://github.com/TanStack/hotkeys/pull/20) in [TanStack/hotkeys](https://github.com/TanStack/hotkeys)
+3. 🗣 Commented on [#2966](https://github.com/chakra-ui/zag/issues/2966#issuecomment-3920442160) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
+4. ❗ Opened issue [#2967](https://github.com/chakra-ui/zag/issues/2967) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
+5. 🔒 Closed issue [#2966](https://github.com/chakra-ui/zag/issues/2966) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats

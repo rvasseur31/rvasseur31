@@ -34,8 +34,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/loungeup/yui3/pull/1) in [loungeup/yui3](https://github.com/loungeup/yui3)
-2. 🎉 Merged PR [#20](https://github.com/TanStack/hotkeys/pull/20) in [TanStack/hotkeys](https://github.com/TanStack/hotkeys)
+1. 🎉 Merged PR [#1](https://github.com/loungeup/yui3/pull/1) in [loungeup/yui3](https://github.com/loungeup/yui3)
+2. 💪 Opened PR [#1](https://github.com/loungeup/yui3/pull/1) in [loungeup/yui3](https://github.com/loungeup/yui3)
 3. 🗣 Commented on [#2966](https://github.com/chakra-ui/zag/issues/2966#issuecomment-3920442160) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
 4. ❗ Opened issue [#2967](https://github.com/chakra-ui/zag/issues/2967) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
 5. 🔒 Closed issue [#2966](https://github.com/chakra-ui/zag/issues/2966) in [chakra-ui/zag](https://github.com/chakra-ui/zag)
